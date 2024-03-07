@@ -1,0 +1,14 @@
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\Actual_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\Actual_Ex01.AssemblyInfoInputs.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\Actual_Ex01.AssemblyInfo.cs
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\Actual_Ex01.csproj.CoreCompileInputs.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\bin\Debug\net8.0\Actual_Ex01.exe
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\bin\Debug\net8.0\Actual_Ex01.deps.json
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\bin\Debug\net8.0\Actual_Ex01.runtimeconfig.json
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\bin\Debug\net8.0\Actual_Ex01.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\bin\Debug\net8.0\Actual_Ex01.pdb
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\Actual_Ex01.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\refint\Actual_Ex01.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\Actual_Ex01.pdb
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\Actual_Ex01.genruntimeconfig.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Actual_Ex01\obj\Debug\net8.0\ref\Actual_Ex01.dll

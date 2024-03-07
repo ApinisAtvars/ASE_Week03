@@ -1,0 +1,4 @@
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Better way of handling properties\obj\Debug\net8.0\Better way of handling properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Better way of handling properties\obj\Debug\net8.0\Better way of handling properties.AssemblyInfoInputs.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Better way of handling properties\obj\Debug\net8.0\Better way of handling properties.AssemblyInfo.cs
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Better way of handling properties\obj\Debug\net8.0\Better way of handling properties.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\bin\Debug\net8.0\InterfaceDemo.exe
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\bin\Debug\net8.0\InterfaceDemo.deps.json
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\bin\Debug\net8.0\InterfaceDemo.runtimeconfig.json
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\bin\Debug\net8.0\InterfaceDemo.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\bin\Debug\net8.0\InterfaceDemo.pdb
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\InterfaceDemo.AssemblyInfoInputs.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\InterfaceDemo.AssemblyInfo.cs
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\InterfaceDemo.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\refint\InterfaceDemo.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\InterfaceDemo.pdb
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\InterfaceDemo.genruntimeconfig.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\InterfaceDemo\obj\Debug\net8.0\ref\InterfaceDemo.dll

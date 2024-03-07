@@ -1,0 +1,14 @@
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\bin\Debug\net8.0\Ex02.exe
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\bin\Debug\net8.0\Ex02.deps.json
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\bin\Debug\net8.0\Ex02.runtimeconfig.json
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\bin\Debug\net8.0\Ex02.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\bin\Debug\net8.0\Ex02.pdb
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.AssemblyInfoInputs.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.AssemblyInfo.cs
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.csproj.CoreCompileInputs.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\refint\Ex02.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.pdb
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.genruntimeconfig.cache
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\ref\Ex02.dll
