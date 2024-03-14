@@ -12,3 +12,4 @@ D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\refint\E
 D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.pdb
 D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.genruntimeconfig.cache
 D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\ref\Ex02.dll
+D:\Advanced_Software_Engineering_repos\ASE_Week03\Ex02\obj\Debug\net8.0\Ex02.sourcelink.json
